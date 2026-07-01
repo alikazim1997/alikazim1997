@@ -9,8 +9,7 @@ I am a Software Developer and a Computer Science student based in Baghdad, Iraq.
 *   **Methodologies:** Clean Code principles, Spaced Repetition, and Agile project management.
 
 ### 🚀 Projects & Ventures
-*   **[Medical IQ Academy](https://medicaliq.academy):** Co-founder and technical lead, building platforms to enhance medical education.
-*   **[Class Code](https://classcode.tech):** Co-founder, focused on software development and digital presence.
+*   **[Medical IQ Academy]([https://medicaliq.academy)](https://medical-iq.vip/):** Co-founder and technical lead, building platforms to enhance medical education.
 *   **SaaS Development:** Currently building a specialized platform for medical workshop automation (QR-based attendance, certificate issuance).
 
 ### 📈 What I'm working on
@@ -20,9 +19,7 @@ I am a Software Developer and a Computer Science student based in Baghdad, Iraq.
 
 ### 📬 Let's Connect
 *   **Location:** Baghdad, Iraq
-* 
-*   **Email:** ali14173414@gmail.com
-
+*   **Email:** [ali14173414@gmail.com]
 
 ---
 *Building today for a smarter tomorrow.*
